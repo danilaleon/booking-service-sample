@@ -1,1 +1,1 @@
-# booking-service-sample
+# Booking Service sample project.
